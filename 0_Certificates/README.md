@@ -1,5 +1,5 @@
 # Certificates
 * Sololearn
-* Github 
+* Git Training
 * First day Github - Screenshot
 * NDG Linux
