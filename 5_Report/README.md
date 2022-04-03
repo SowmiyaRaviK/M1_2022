@@ -13,3 +13,8 @@
 * The function named "percentage" which will multiple the averaged value by 100.
 * The percentage function will return the multipled value.
 
+# Implementation
+* Header files
+* C files
+* Makefile
+* Unity files
